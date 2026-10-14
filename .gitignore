@@ -1,0 +1,6 @@
+# Publish only the reviewed standalone artifact and its documentation.
+*
+!index.html
+!README.md
+!.gitignore
+!.nojekyll
