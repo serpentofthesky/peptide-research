@@ -22,6 +22,8 @@ Coverage: VKTX, RYTM, ZEAL, PTGX, ALT, CAMX, 4587, 1801, 1276, NVO, LLY and KLRA
 
 ## Open the research
 
+[Open the public website](https://serpentofthesky.github.io/peptide-research/#en/VKTX). GitHub Pages serves the same standalone research snapshot in this repository.
+
 Open `index.html` directly in a modern browser. All application code and data are embedded in that file; no installation, API key or build step is required. Internet access is needed only to visit external sources.
 
 Alternatively, from this directory run:
